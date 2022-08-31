@@ -1,5 +1,7 @@
 # password_cracking_rule
 
+## Forearms note: I did not do any of this work, just forked the repo because I'd be sad if this disappeared.
+
 This is a supporting repo for blog post https://www.notsosecure.com/one-rule-to-rule-them-all/
 
 
